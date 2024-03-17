@@ -1,1 +1,1 @@
-# Selfdriving-Arduino-RCcar
+# Selfdriving-Arduino-RCcar (Q-learning)
